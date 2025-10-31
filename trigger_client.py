@@ -1,5 +1,5 @@
 # trigger_client.py
-# Run: python trigger_client.py --server http://localhost:8000 --client-id restaurant_01
+# Run: python3 trigger_client.py --server http://localhost:8000 --client-id restaurant_01
 import requests
 import argparse
 

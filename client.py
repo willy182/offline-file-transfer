@@ -1,5 +1,5 @@
 # client.py
-# Run: python client.py --server http://localhost:8000 --client-id restaurant_01
+# Run: python3 client.py --server http://localhost:8000 --client-id restaurant_01
 from websocket import create_connection
 import json
 import argparse
